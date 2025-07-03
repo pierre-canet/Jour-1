@@ -1,0 +1,38 @@
+/*Cadrage de la page*/
+body {
+  background-color: gray;
+}
+
+aside {
+  text-align: center;
+}
+main {
+  border: solid;
+  border-color: black;
+  background-color: darkcyan;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+/*Boutons*/
+
+button {border: solid;
+border-radius: 20px;
+border-color: lightgray;
+background-color: gray;}
+
+
+
+/*Tableaux*/
+
+table {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+td {
+  background-color: darkcyan;
+  text-align: center;
+}
