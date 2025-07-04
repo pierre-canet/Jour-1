@@ -23,32 +23,3 @@ li {
 h2 {
   text-align: center;
 }
-/*FlexBox*/
-
-.box {border: solid;
-border-radius: 10px;
-background-color: bisque;
-display: flex;
-justify-content: center;
-flex-direction: row;
-margin-top: 10px;
-margin-bottom: 10px;
-margin-left: 200px;
-margin-right: 200px;
-}
-
-.box2 {
-  border: solid;
-  border-radius: 30px 0 30px 0;
-  background-color: bisque;
-  padding: 15px;
-  display: flex;
-  justify-content: center;
-  align-content: space-around;
-  flex-direction: row;
-  column-gap: 30px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 200px;
-  margin-right: 200px;
-}
